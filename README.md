@@ -1,5 +1,5 @@
 
-This code is an implementation  of logistic regression with l1 regularization
+This code is an implementation  of logistic regression with l1 regularization from scratch
 
 we have used a dummy dataset for training 
 
